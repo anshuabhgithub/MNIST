@@ -2,6 +2,7 @@ import random
 import numpy as np
 import pandas as pd
 import frw_out as fp
+#added modification
 class Nu_layer:
 
 	def __init__(self,node,in_put):
